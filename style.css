@@ -1,6 +1,15 @@
 body{
     font-family: 'Poppins';
 }
+a:link{
+    color: gray;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color:#ffc420;
+}
 
 .carousel-indicators li{
     background-color: #ffc420;
