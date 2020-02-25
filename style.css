@@ -14,6 +14,12 @@ body{
     padding: 9px 20px;
     border-radius: 5px;
 }
+.cat-hr{
+    width: 50px;
+    color: #ffc420;
+    border: 3px solid #ffc420;
+    border-radius: 5px;
+}
 .card{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
