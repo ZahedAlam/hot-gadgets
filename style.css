@@ -4,6 +4,8 @@ body{
 
 .carousel-indicators li{
     background-color: #ffc420;
+    margin-top: 5px;
+    padding-top: 5px;
 }
 .best-product-bg{
     background-image: url(images/bg-Best\ Products.png);
