@@ -22,8 +22,17 @@ padding-bottom: 50px;
 }
 
 ul.contact {
+<<<<<<< HEAD
     list-style-type: none;
 }
 ul.all-links{
     list-style-type: none;
 }
+=======
+    list-style-type:none;
+}
+
+ul.all-links{
+   list-style-type:none;
+}
+>>>>>>> 96b0332c2a39da6449e8ce6be514ae8989062964
