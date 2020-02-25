@@ -18,8 +18,12 @@ body{
 .col-footer-block{
 margin-top: 100px;
 padding-top: 50px;
+padding-bottom: 50px;
 }
 
-.contact ul {
-    text-decoration: none;
+ul.contact {
+    list-style-type: none;
+}
+ul.all-links{
+    list-style-type: none;
 }
