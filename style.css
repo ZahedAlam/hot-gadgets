@@ -5,7 +5,12 @@ body{
 .carousel-indicators li{
     background-color: #ffc420;
 }
-
+.best-product-bg{
+    background-image: url(images/bg-Best\ Products.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 13%;
+}
 .button-link{
     text-transform: uppercase;
     background-color: black;
