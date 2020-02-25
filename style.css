@@ -20,10 +20,10 @@ margin-top: 100px;
 padding-top: 50px;
 }
 
-ul .contact {
+ul.contact {
     list-style-type:none;
 }
 
-ul .all-links{
+ul.all-links{
    list-style-type:none;
 }
