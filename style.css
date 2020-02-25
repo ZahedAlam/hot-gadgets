@@ -15,6 +15,10 @@ body{
     border-radius: 5px;
 }
 
+.card-body{
+    text-align: center;
+}
+
 .col-footer-block{
 margin-top: 100px;
 padding-top: 50px;
